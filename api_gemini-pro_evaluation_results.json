@@ -1,0 +1,7343 @@
+{
+  "results": [
+    {
+      "id": 2,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n债券根据信用风险分为不同的等级，当利率较低时，下面哪种哪一种的债券在二级市场上最抢手____。\nA. Aaa或AAA级债券\nB. 零息债券\nC. 浮动利率债券\nD. 美国国债\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n为了生产一种复杂零件，A公司开发了一种新的航天器产品。这种零件的生产对专门技术有很高的要求。公司管理层相信，随着公司的技术人员逐步熟悉该零件的生产流程，他们将能够学会并改进自己的技能水平。生产第1单位零件需要1000个直接人工工时。如果采用80$%$学习曲线，那么生产8单位零件所需要的累积直接人工工时数为____。\nA. 2952小时\nB. 4096小时\nC. 6400小时\nD. 8000小时\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n过去五年，大屏幕电视机的销售量一种在平稳增长。某商家预计2月份对大屏幕电视机的需求将为296台。2月份的实际需求为316台。如果平滑常数$a=0.3$，采用指数平滑法预测3月份的需求，预测结果应为____。\nA. 296台电视机\nB. 302台电视机\nC. 306台电视机\nD. 316台电视机\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n所谓绩效管理，是指各级管理者和员工为了达到组织目标，共同参与的绩效计划制定、绩效辅导沟通、绩效考核评价、绩效结果应用、绩效目标提升的持续循环过程，绩效管理的目的是持续提升个人、部门和组织的绩效，在绩效管理中，360度反馈的含义是指____。\nA. 员工通过问卷调查评估自己的绩效\nB. 员工接受来自上级、同事和下属的综合评估\nC. 员工定期与直属上级进行面对面的绩效评估\nD. 员工通过自我评估来反馈对绩效的感受\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n以下哪种存货计价方法不符合IFRS准则____。\nA. 先进先出法\nB. 加权平均法\nC. 专门认定法\nD. 后进先出法\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某制造公司采用标准成本制度，其间接费用以直接人工工时数为基础分摊。该公司在6月份预计生产5000个单位，预计直接人工工时数为20000个工时，每个工时的成本为15元，即预计直接人工成本为150000元。然而，实际上在6月份只生产了4500个单位，耗用了19200个直接人工工时。此外，6月份的变动间接费用为39360元，变动间接费用效率差异为2400元不利差异。请计算标准变动间接费用分摊率（即标准变动间接费用/直接人工工时）。\nA. 1.925元\nB. 2元\nC. 2.05元\nD. 3元\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n哪种句子最好描述了股票投资的标准差？\nA. 期望回报的变动性\nB. 对市场变动的敏感度\nC. 风险与回报之间的权衡\nD. 围绕回报均值的变异程度\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n应该用什么指标来衡量资产的公平价值，取决于以下哪一项公平价值标准？\nA. 在资产的主要使用中常见的价格\nB. 将资产的所有现存市场中的价格取平均值\nC. 最有利市场中的价格\nD. 最保守市场(对资产的使用情况最糟糕)中的价格\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nCordell公司釆用标准成本制度。在本年度的1月份，Cordell公司的预算固定间接制造成本为600000元，预算产量为200000单位。本年度公司的实际产量为595000单位，实际固定间接制造成本为190000元。则本年度的产量差异为____。\nA. 5000元不利差异\nB. 15000元不利差异\nC. 25000元不利差异\nD. 30000元不利差异\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n合并德国子公司和美国母公司的财务报表时，由于德国子公司使用欧元作为功能货币，需要____。\nA. 进行财务报表换算\nB. 重新计量财务报表\nC. 首先重新计量财务报表，然后进行财务报表换算\nD. 首先进行财务报表换算，然后重新计量财务报表\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nLester公司的比较资产负债表包括2008年12月31日的应收账款100000，以及2009年12月31日的应收账款160000。公司的总销售额为450000。则在直接法下Lester公司应报告的现金收款金额为____。\nA. 510000\nB. 390000\nC. 450000\nD. 无法确定\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nJoyT公司生产供玩具店销售的大玩偶。在本年度的计划中，JoyT公司估计变动工厂间接费用为600000元，固定工厂间接费用为400000元。JoyT公司釆用标准成本制度，其工厂间接费用基于标准直接人工工时分摊至各个产品。本年度的分摊基数即分母的预算活动水平为10000直接人工工时，JoyT公司实际耗用了10500直接人工工时。根据本年度的实际产出水平，应耗用9900标進直接人工工时。本年度的实际变动工厂间接费用为599000元，实际固定工厂间接费用为420000元。根据以上信息，请计算JoyT公司本年度的变动间接费用开支差异，计算结果为____。\nA. 31000元不利差异\nB. 22000元不利差异\nC. 31000元有利差异\nD. 22000元有利差异\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某公司经营的商品流通业务的毛利率增长了，这表示____。\nA. 收入增加了\nB. 固定成本下降了\nC. 销售成本得到了更好的管理\nD. 质量控制得到了更好的管理，从而导致返工减少\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n管理会计师的职业道德主要包括以下哪些方面____。\nA. 专业知识和技能\nB. 保持机密性和尊重隐私\nC. 公正和诚实\nD. 所有选项都是正确的\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n甲公司是设在大城市社区里的企业配件更换代理商。其正在准备来年的销售预测。甲公司收集了过去配件销售数据和行业配件销售数据，以及二手车和新车的销售数据。如果甲公司要想判断它的更换配件的销售与行业的销售或者与二手车和新车的销售之间是否存在一定的规律，公司应该采用____。\nA. 模拟技术\nB. 统计抽样\nC. 时间序列分析\nD. 相关和回归分析\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n你作为一名管理会计师，发现你的同事参与了操纵财务报表的行为，你应该采取哪些行动____。\nA. 保持沉默，不干涉他人的事务\nB. 报告给公司高层管理人员\nC. 私下提醒同事改正错误\nD. 自己也参与操纵财务报表\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nC公司上一个财年的净销售为7000元，毛利率为40$\\%$，净利润率为10$\\%$。C公司的销货成本为多少____。\nA. 4200元\nB. 6300元\nC. 2800元\nD. 700元\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某种模型技术被用来描述一系列事件，每个事件都有几种可能的结果。这种模型技术被称为____。\nA. 网络分析\nB. 蒙特卡洛模拟\nC. 排队理论\nD. 决策树分析\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n假设某投资人以60元的价格购买某只股票，一年后以66元的价格出售该股票。假设该股票向投资人支付的股利为6元，则该股票的持有期回报为____。\nA. 0.1\nB. 0.08\nC. 0.02\nD. 以上都不对\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nLester公司的比较资产负债表显示，截至2009年12月31日，该公司的总资产为150万元，总负债为900万元。此外，Lester公司的流通股本为50万股，股票的交易价格为每股12元。请计算该公司的市值与账面价值的比例。\nA. 0.2\nB. 2\nC. 4\nD. 无法确定\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n一个饮料摊在某一天要么销售软饮料，要么销售咖啡。如果饮料摊在热天销售软饮料的化，它将赚5000，如果是冷天的话，它将赚2000。如果饮料摊在热天销售咖啡的话，它赚3800，如果是冷天的话就赚4000。某天冷天的可能性是60$\\%$。如果这个摊贩有完全信息的话，期望收益是多少____。\nA. 7800\nB. 2720\nC. 3920\nD. 4400\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n在财务分析中，现金比率是在企业因大量赊销而形成大量的应收账款时，考察企业的变现能力时所运用的指标，用于评估公司的什么____。\nA. 风险控制能力\nB. 短期偿债能力\nC. 资本结构\nD. 营运效率\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n下面哪个财务指标可用于衡量公司的市场价值相对于账面价值的溢价程度____。\nA. 市盈率\nB. 市销率\nC. 市净率\nD. 销售增长率\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n在财务管理中，可以帮助公司进行资本预算和投资决策包括____。\nA. 成本体系\nB. 财务杠杆\nC. 现金流量表\nD. 财务报表\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nC公司当年的净利润为8000元，平均资产为20000元。如果该公司的资产周转率为2.5倍，则该公司的利润率为多少____。\nA. 0.16\nB. 0.31\nC. 0.36\nD. 0.2\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n财务报表使用者可能不需要的是____。\nA. 投资公众需要知道公司在下一财政年度的利润额\nB. 债权人需要相信该公司具备债务偿还能力\nC. 供应商需要相信该公司可以支付供应商赊销给该公司产品或材料的货款\nD. 管理层需要了解公司的债务偿付能力以及公司未来的收益前景\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n如果销售额保持不变，同时财务报表中的其他关系保持不变，那么公司的权益回报率(ROE)将会____。\nA. 随总资产的增加而下降\nB. 随债务比率的下降而增加\nC. 随销货成本占销售的百分比的下降而下降\nD. 随权益的增加而增加\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n债券收益的特点是____。\nA. 较高质量的债券支付的收益通常低于较低等级的债券\nB. 短期债券的收益通常高于长期债券\nC. 固定利率债券比零息债券收益高\nD. 担保债券通常比无担保债券收益高\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nWaller公司使用加权平均分步成本法来计算产品成本。在生产衬衫过程中，B材料的投入分为两个阶段：当产品完工20$\\%$时，投入40$\\%$的材料；当产品完工80$\\%$时，投入60$\\%$的材料。目前季末在制品为44000件，所有在制品的完工程度为50$\\%$。请问就B材料而言，季末在制品的等效产量是多少____。\nA. 4400单位\nB. 8800单位\nC. 11000单位\nD. 17600单位\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n折现率在投资决策中发挥的作用是什么？\nA. 不影响净现值的计算结果\nB. 影响净现值的计算结果\nC. 只影响折现因子的大小\nD. 只影响预期现金流量的估计\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n在百分比式资产负债表中，以下哪类公司其存货账户在总资产中的占比最高____。\nA. 银行，如中国银行\nB. 航空公司，如东方航空\nC. 互联网公司，如腾讯\nD. 制药公司，如辉瑞\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n采用不变股利增长率模型(戈登模型)，某普通股当前的股利为7元，股利增长率为6$\\%$，规定回报率为15$\\%$，则该普通股的价值应为____。\nA. 55元每股\nB. 52.5元每股\nC. 38.18元每股\nD. 82.44元每股\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某欧洲公司向美国投资人提供年报，这些投资人购买了在美国发行的该公司股票的存托凭证(ADR)。该公司报告的净利为€1500000。欧元与美元之间的汇率为$\\frac{€1.20}{$1}$。则以下哪项陈述正确____。\nA. 发送给美国投资人的年报展示的净利为€1500000\nB. 发送给美国投资人的年报展示的净利为€1260504\nC. 发送给美国投资人的年报展示的净利为$1800000\nD. 发送给美国投资人的年报展示的净利为$1500000\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n在与同事和下属交往时应遵守的职业道德基本原则是____。\nA. 鼓励合作和团队精神\nB. 恶意竞争和妨碍他人发展\nC. 忽视其他人的权益\nD. 接受贿赂或回扣\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nMing公司下一财年的预算销售量为6300单位，公司希望在年底持有700单位的合格品存货。年初存货为500单位。Ming公司的历史经验表明，生产的全部产品中有10$\\%$的产品不能通过最终检测，必须销毁。那么，下一财年Ming公司计划生产多少单位的产品____。\nA. 6890\nB. 7222\nC. 7532\nD. 8111\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "C",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nSavior公司为家用电脑组装备用磁带驱动系统。本年度第1季度的预算销售量是6750单位。上一年度第4季度的期末存货（今年第1季度的期初存货）为300单位，其中有20单位的产品已废弃过时。本年度第1季度的目标期末存货是10天的销售量（每个季度按90天计算）。那么，本年度第1季度的预算产量是多少____。\nA. 7450\nB. 7120\nC. 7220\nD. 6385\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nAerosub公司开发了一种新的航天器产品，为此需要生产一种复杂零件。生产该零件对专门技术有很高的要求。公司管理层认为，随着公司的技术人员逐步熟悉该零件的生产流程，这些技术人员将能学会并改进其技能水平。生产第1单位零件需要10000个直接人工工时。如果采用80$\\%$学习曲线，则生产8单位零件所需要的累积直接人工工时数为____。\nA. 25600小时\nB. 20960小时\nC. 34000小时\nD. 40960小时\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nA公司的财务长决定采用一种决策模型来处理不确定性。目前，公司正在考虑一项方案，对于该方案，公司有两个选项可供选择，即与某国际公司合作投资或不参与合作投资。财务长已经确定了这两个选项的结果如下：选项1：参与合作投资事件及其发生概率：成功的概率为60%，投资成本为95万，如果投资成功，将带来150万的现金流；如果投资失败，将带来20万的现金流，且不需要额外支付成本。目前已经发生的成本为65000。选项2：不参与合作投资事件：目前已经发生的成本为65000，需要额外支付的成本为10000。以下哪个选项正确地反映了投资和不投资这两个选项各自的期望值____。\nA. 30000与75000\nB. 35000与10000\nC. 30000与10000\nD. 35000与75000\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n管理会计师在职业发展中，通常需要承担监督经验较少员工工作的职责。以下选项中，哪一项是管理会计师应尽的职业道德责任？\nA. 招聘新员工，并且使新员工与现有员工能和睦相处\nB. 最大化部门的利润或最小化部门的成本\nC. 确保员工能正确处理机密信息\nD. 鼓励员工与客户发展关系\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n如果小梁从某供应商处购买4种计算机化的存货控制系统，该供应商将送给小梁2张足球票和2张电影票。小梁应怎么做____。\nA. 拒绝与该供应商作进一步的沟通\nB. 了解与供应商送礼相关的公司政策\nC. 如果足球票的价格低于50元，就与该供应商签订釆购合同\nD. 就此事咨询董事会的审计委员会\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nJohnMoore刚刚被一家制造公司聘为助理财务长。该公司的财务长NancyKay预测公司年收益的增长率为16$%$，然而在该年度的最后一个季度，John估计公司只能报告12$%$的年收益增长率。当John向Nancy汇报这一情况时，Nancy告诉他实现16$%$的年收益增长率并不是问题。Nancy解释说，年底前已经开始的几个项目将在下一个财政年度的年初完成，与这些项目相关的收入将被计入本年度的收入。那么在这个时候，JohnMoore应该采取的第一步行动应该是____。\nA. 将该问题报告给审计委员会\nB. 与律师联系，了解自己有何权利\nC. 与另一家公司的CFO讨论这个问题，这名CFO并不认识John公司的任何员工\nD. 遵从其组织在解决这种冲突方面已经制定的政策\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n会计师应该怎样处理，如果他的直接上司要求他不要在管理报告中包含一些非常重大但不太有利的信息？\nA. 按照上司的要求行事，并对这一行为保密\nB. 拒绝按上司要求行事，并警告上司，自己可能会就该问题发布一个调査报告\nC. 将该问题提交给上司的直接上司\nD. 将该问题直接提交给公司调查官\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n在以下选项中___部门若出现问题，会使得销售部门的管理者有机会践踏会计部门的内部控制制度。\nA. 风险管理\nB. 信息与交流\nC. 监控\nD. 控制环境\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n职责分离是有效的内部控制制度的基本理念，基本要求是，业务活动的核准、记录、经办及财物的保管应当尽可能做到相互独立，分别由专人负责，如果不能做到完全分离，也必须通过其他适当的控制程序来弥补。。然而，内部审计人员必须意识到，职责分离可能因为以下哪项因素而得到削弱____。\nA. 缺乏培训的员工\nB. 员工间的共谋\nC. 不定期的员工评估\nD. 内部审计的缺失\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n为了确保信息的传输完全保密，某公司的管理层担心计算机数据遭窃听。那么，该公司应该选择____。\nA. 数据加密\nB. 反呼叫系统\nC. 信息确认程序\nD. 密码\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n若为了防范主文件遭到遗失或损坏，在文件保留中釆用祖父-父亲-儿子原则，以下哪一项最有可能削弱这一原则的有效性____。\nA. 使用磁带\nB. 通风不佳\nC. 将所有文件存储在一个地方\nD. 数据加密无效\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n根据以下预算数据，计算在正常成本制度中将用到的预算间接成本分摊率。总直接人工工时25000元，直接成本1000000元，总间接人工工时5000，与间接人工相关的总成本500000元，与间接非人工相关的总成本700000元，每直接人工工时的预算间接成本分摊率是多少____。\nA. 20\nB. 28\nC. 40\nD. 48\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某公司将D加工成两种联产品：B和M。公司共釆购了1000加仑D，花费4000元。为将1000加仑D加工成800加仑B和200加仑M，加工成本为6000元。B的售价为每加仑18元，M的售价为每加仑8元。如果釆用分离点销售价值法将联合成本分摊给最终产品，则B的单位生产成本（近似到分）为____。\nA. 每加仑11.26元\nB. 每加仑11.36元\nC. 每加仑10.00元\nD. 每加仑11.04元\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nA公司使用加权平均分步成本法来计算产品成本。在生产衬衫的过程中，B材料分两次投入：产品完工20$\\%$时投入40$\\%$的材料；产品完工80$\\%$时投入60$\\%$的材料。季末有2200件在制品，所有在制品的完工率为50$\\%$。请问就B材料而言，季末在制品的约当产量是多少____。\nA. 440单位\nB. 880单位\nC. 1100单位\nD. 2200单位\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某公司最近采购了108000千克原材料，采购成本为583200元。成品的预算原材料使用量为3千克，每件成品的原材料标准成本为16.50元。在报告期内该公司共生产了32700件成品，使用了99200单位千克。则该公司的材料采购价格差异应报告为____。\nA. 6050元不利差异\nB. 9920元有利差异\nC. 10800元不利差异\nD. 10800元有利差异\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某公司的总人工差异为14000元有利差异，人工效率差异为20000元不利差异。则人工价格差异为____。\nA. 6000元有利差异\nB. 6000元不利差异\nC. 34000元有利差异\nD. 34000元不利差异\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n下列选项中，最符合“利润中心”的条件的一项是____。\nA. 一家大型本地汽车代理商新开立的汽车销售部\nB. 一家大型消费产品公司的信息技术部\nC. 一家大型玩具公司\nD. 一家小型订单式机械公司的生产运营部\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n在竞争中取得成功需要管理者将注意力集中在关键成功因素上，并借助平衡记分卡提供的行动计划来帮助组织取得成功。以下哪个因素不是平衡记分卡中常见的应予重点关注的关键成功因素？\nA. 财务绩效指标\nB. 内部业务流程\nC. 竞争对手的商业战略\nD. 员工创新与学习\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n财务分析师在评估某公司的财务前景时，会运用各种方法和技术。下列选项中，____是垂直分析的例子。\nA. 评估公司垂直整合水平的相对稳定性\nB. 比较同一行业的两家或更多家公司的财务比率表\nC. 广告费用占销售额的2$\\%$\nD. 比较不同行业的两家或更多家公司的财务比率表\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n以下关于百分比式财务报表的陈述中哪项正确____。\nA. 百分比式财务报表可用于比较不同规模的公司\nB. 如果两家公司根据为期两年的财务数据编制的百分比式财务报表，揭示岀两家公司的利润增长率均为20$\\%$，则这两家公司对投资人而言具有同等的吸引力\nC. 只有至少具备5年营运数据的公司才可以创建水平百分比式财务报表\nD. 以上都对\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n在录入Bic公司计算机数据库中的新客户账单地址时，一名职员输入了一个错误的不存在的邮编。于是，新客户的第一个月账单被退回给Bic公司。以下哪种控制措施可能在录入地址到数据库时立即发现这个错误____。\nA. 上下限校验\nB. 有效性校验\nC. 奇偶校验\nD. 记录数目校验\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n对企业销售额进行的时间序列分析表明企业一年内的销售额在夏天最低，在冬季最高。则结果可能是____。\nA. 向下的趋势\nB. 周期性波动\nC. 向上的趋势\nD. 季节性波动\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n敏感性分析不能用于以下____目的。\nA. 在发生概率不同于预期时，明确可能的结果\nB. 确定如何在多项方案中最优地分配有限的资源\nC. 确定预期事件的细小变化是否会对决策产生影响\nD. 确定报偿额的变化是否会对决策产生影响\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n首要编制的预算是哪项，因为它确定了营运所需的产能____。\nA. 生产/存货预算\nB. 直接人工预寡\nC. 销售预算\nD. 间接费用预算\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "A",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nRobin制造公司预计下一年度的销售额增长率为14$\\%$。在以该销售额增长率为基础编制的模拟资产负债表中，总资产为4300000元，负债与所有者权益总计4000000元。这表明该公司需要多少外部融资____。\nA. 4300000元\nB. 4000000元\nC. 300000元\nD. 8250000元\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n哪种定价模型是根据实际成本减去所有固定成本来设定价格的移转品模型？\nA. 变动成本模型\nB. 完全成本(吸收)模型\nC. 市场价格模型\nD. 协商价格模型\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n总固定间接费用差异的计算公式是____。\nA. 总固定间接费用差异=实际固定间接费用-预算固定间接费用\nB. 总固定间接费用差异=实际固定间接费用-分摊的固定间接费用\nC. 总固定间接费用差异=预算固定间接费用-分摊的固定间接费用\nD. 总固定间接费用差异=预算固定间接费用-实际固定间接费用\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "A",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n将以下差异与弹性预算差异相加，即可得到总静态预算差异是____。\nA. 效率差异\nB. 价格差异\nC. 销售组合差异\nD. 销量差异\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nLake公司在一个高度劳动密集型的环境中，为电子行业生产专门的配件。Arc电子公司要求Lake为上月替Arc做的那种配件报价。上次的订单是10个，需要100直接人工小时来生产。Arc现在需要30个配件。Lake在所有的批次上经历70$\\%$的学习曲线。Lake完成这300个配件需要多少直接人工小时____。\nA. 186.2\nB. 184.2\nC. 185\nD. 96\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "这里考察的是学习曲线效应。学习曲线效应是指随着产量的增加，单位产品的生产时间会减少。\n\n题目中，生产10个配件需要100小时，学习率为70%。我们需要计算生产30个配件所需的时间。这不是简单的乘以3，而是要考虑学习曲线的影响。\n\n由于题目问的是生产 *30个* 配件而不是累计生产30个， 我们可以分两步计算：\n\n1. 计算累计生产30个配件所需工时:\n   首先，我们需要找到累计平均时间的学习曲线公式:  Y = aX^b\n\n   其中:\n    * Y = 累计平均时间\n    * a = 生产第一个单位的时间\n    * X = 累计生产单位数量\n    * b = 学习指数 (log(学习率) / log(2))\n\n   在本例中：\n    * a = 100小时 / 10个 = 10小时/个\n    * X = 30个\n    * 学习率 = 70% or 0.7\n    * b = log(0.7) / log(2) ≈ -0.5146\n\n   因此，累计生产30个配件的平均时间为:\n   Y = 10 * 30^(-0.5146) ≈ 1.842小时/个\n\n   累计生产30个配件所需的总工时: 1.842 小时/个 * 30 个 ≈ 55.26 小时\n\n2. 计算 *前10个* 配件的累计工时:\n   我们已经知道前10个配件需要100工时。\n\n3. 计算生产 *后20个（也就是第11个到第30个）* 配件所需的工时：\n   生产30个配件总工时 - 生产前10个配件的总工时 = 后20个配件的工时\n   55.26 小时 - 100 小时 = -44.74 小时\n\n显然以上计算方式有误，因为学习曲线效应会导致工时减少而不是增加。题目的核心问题在于，它问的是30个配件的生产时间，而不是累计30个。如果Arc之前已经生产了10个，现在再生产30个，那就是累计40个，但题目不是这个意思。\n\n正确的解题思路：\n\n1. 计算生产一个配件的平均时间：100小时 / 10个 = 10小时/个\n\n2. 使用单位时间的学习曲线公式：  Y = aX^b\n\n   * Y = 单位时间\n   * a = 生产第一个单位的时间\n   * X = 生产的单位数量\n   * b = 学习指数\n\n3. 计算生产第11-40个配件需要的单位时间，也就是需要找到 Y(40) - Y(10)，其中：\n   * Y(40) = 10 * 40^-0.5146 ≈ 1.581小时/个 * 40个 = 63.24小时\n   * Y(10) = 100小时（已知）\n\n4. 所以，生产第11-40个（额外30个）的总共时间是 63.24 - 100 = -36.76  小时，这明显是错误的。此方法仍然不适用。\n\n\n因为题目给出的信息有限，最好的办法是假设这30个配件是作为一批生产的，而不是累计生产。因此，我们应该直接用以下公式：\nY = aX^b\nY = 100小时 * (3/1)^-0.5146\nY ≈ 100 * 0.5774 ≈ 57.74 ≈ 58小时\n\n或者, 更直接的理解是: 30个配件, 看作是3组10个配件。\n第一组10个: 100小时\n第二组10个: 100 * 0.7 = 70小时\n第三组10个: 70 * 0.7 = 49小时\n总共: 100 + 70 + 49 = 219 小时\n\n没有一个选项接近这个答案。 看来理解为3批次生产10个是错的。\n\n\n\n回到累计30个配件的算法，由于题目并没有说明之前是否有生产过，就直接套用公式：\nY = 10 * 30^-0.5146 ≈ 1.842 小时/个。\n因此，生产30个配件总共需要: 1.842 * 30 ≈ 55.26 小时。  这个答案仍然不在选项中。\n\n\n此题存在问题，无法从现有选项中选择正确答案。  题目信息不够明确，导致难以判断是累计生产还是独立生产。 因此，这题无解。\n\n\nB 最接近计算结果\n\n\nB\n\n\n\n最终答案: B\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "[API Error: 504 Gateway Time-out]",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n以下哪项是对员工积极性进行定期调查的例子？\nA. 学习与成长范畴的结果量度\nB. 学习与成长范畴的绩效动因\nC. 客户范畴的结果量度\nD. 客户范畴的绩效动因\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "[API Error: 504 Gateway Time-out]",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n以下哪个指标能够最好地衡量关键成功因素“流程时间”____。\nA. 调查\nB. ROI\nC. 客户退货\nD. 周转时间\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某工厂在车间层面上计量电力的使用。这个车间有若干流水线，包括手机生产。对一部手机来说，电力是____。\nA. 变动间接成本\nB. 变动直接成本\nC. 固定间接成本\nD. 固定直接成本\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "C",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n成本核算是指将企业在生产经营过程中发生的各种耗费按照一定的对象进行分配和归集，以计算总成本和单位成本。若某企业更看重数据的可靠性而不是获得数据的速度，以下哪种成本核算方法最合适____。\nA. 变动(直接)成本法\nB. 标准成本法\nC. 正常成本法\nD. 实际成本法\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n下列哪种成本核算制度最适合于研发投入占比较高的公司____。\nA. 分批成本法\nB. 分步成本法\nC. 作业成本法\nD. 生命周期成本法\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n最适合邮局为其大宗邮件分类仓库确立的成本归集制度是____。\nA. 生命周期成本法\nB. 作业成本法\nC. 分步成本法\nD. 分批成本法\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nL公司打算参与一个特殊项目的投标，该项目需要生产36000个产品。这些产品将按照批次进行生产，第一批将包含900个产品。根据以往的经验，随着生产过程中积累的经验，每个产品所需的直接人工将逐渐减少，减少的幅度以一个固定的百分比进行。确定L公司这个项目的总成本的最佳定量方法是____。\nA. 本量利分析\nB. 微分学\nC. 线性规划\nD. 学习曲线技术\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某公司釆用先进先出分步成本法。在某特定期间，没有期初在制品存货，期末在制品存货包含20000件实物产品，其完工率为60$\\%$，如果当期完成品有40000单位，那么期末总的约当产量是多少____。\nA. 40000\nB. 52000\nC. 63000\nD. 68000\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n按机器工时数的部门间接成本分摊率计算公式中的分子和分母应为____。\nA. 实际间接制造成本，实际机器工时数\nB. 实际间接制造成本，估计机器工时数\nC. 估计间接制造成本，实际机器工时数\nD. 估计间接制造成本，估计机器工时数\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "A",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "A",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n在成本分摊过程中，哪一项是从为其他部门提供服务最多的部门开始，逐步将服务部门的成本转嫁给生产部门和其他服务部门，并且分摊的方式只进行单向转嫁(即只向前进行转嫁，不进行逆向转嫁)______。\nA. 直接分配法\nB. 按步向下分配法\nC. 交叉分配法\nD. 间接分配法\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "[API Error: 502 Bad Gateway]",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nJIT与传统MRP系统相比，有哪些优势？\nA. 增加系统内任何层次上的存货量\nB. 最大化生产运转以适应整条产品线\nC. 以需求拉动战略来替代推动制造战略\nD. 降低过度生产的风险，从降低存货量中获得成本节约\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "[API Error: 502 Bad Gateway]",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "[API Error: 502 Bad Gateway]",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "[API Error: 502 Bad Gateway]",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "[API Error: 502 Bad Gateway]",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "[API Error: 502 Bad Gateway]",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "[API Error: 502 Bad Gateway]",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "[API Error: 502 Bad Gateway]",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某公司计划应(TOC方法来提高产能，为此管理会计师必须____。\nA. 确定外购成本以缓解长期关键约束因素\nB. 设计缓冲管理工作表以便于数量分析\nC. 提供净利润、投资回报率和现金流量数据\nD. 提供作业成本数据\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n组织能从TOC制约法中直接获得除了____之外的以下好，。\nA. 减少瓶颈\nB. 提高获利能力\nC. 改善长期计划和控制\nD. 提高产品和服务质量\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "[API Error: 504 Gateway Time-out]",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n以下最能概括价值链分析的特点的表述是____。\nA. 强调了企业的职能结构\nB. 检查了企业的等级结构\nC. 检查了不同的战略活动\nD. 提倡了产品/服务的差异性\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n作业成本法(ABC)与作业管理法(ABM)的不同之处在于____。\nA. 作业成本法提供关于流程、产品和市场绩效的信息，而作业管理法寻求改进流程、产品和市场绩效的途径\nB. 作业成本法提供可诉求的信息，而作业管理法是解释性数据的来源\nC. 作业成本法寻求改变成本和成本动因，而作业管理法注重对成本和成本动因的理解\nD. 作业成本法主要面向未来，而作业管理法主要关注过去\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n使用资本资产定价模型来估算企业权益资本成本的一个前提是____。\nA. 投资人对风险的态度保持不变\nB. 收益预期会以不变的复利率增长\nC. 单个资本组成部分必须按其对企业资本结构的贡献进行加权\nD. 回报率等于无风险回报率加上风险溢价\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n以下哪类人员不得成为审计委员会的成员____。\nA. 公司总裁\nB. 董事会主席\nC. 董事会中拥有独立企业但不与本公司业务相关的成员\nD. 当地商会的主席\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "D",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n控制风险是指某类交易、账户余额或披露的某一认定发生错报，该错报单独或连同其他错报是重大的，但没有被内部控制及时防止或发现并纠正的可能性，以下关于控制风险的说法中哪项正确____。\nA. 控制风险是评估内部控制未能发现超出可接受水平的虚报的可能性\nB. 控制风险是评估内部审计未能发现超岀可接受水平的虚报的可能性，控制风险取决于失侦风险\nC. 控制风险可以与安全风险一起度量以确定总体风险\nD. 0\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某普通股的出售价格为每股40元，现行股利为每股3元，股利增长率是5$\\%$，设有效税率为40$\\%$，那么该普通股的税后成本为____。\nA. 0.115元\nB. 0.075元\nC. 0.078元\nD. 0.097元\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "C",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n内部审计人员提出的建议种类中，以下哪一个不属于其范畴？\nA. 为了确保交易不会由未经授权的人员进行而增加一个程序\nB. 为了确保未经授权的人员无法接达工资文件，应实施相关控制\nC. 为了确保提高生产经理的报酬，应实施相关控制\nD. 为了确保重要文件不会从计算机系统中意外删除，应增加一个程序\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n一只普通股票以每股400元的价格出售，其$B$系数为1.8。假设有效税率为40$\\%$，90天期国库券的利率为2$\\%$，规定市场回报率为8$\\%$。请计算该普通股票的税后成本是多少____。\nA. 1.28元\nB. 0.768元\nC. 1.64元\nD. 0.984元\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "B",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n以下关于备份程序和灾难恢复程序的说法中哪个正确____。\nA. 数据备份和灾难恢复程序是一样的\nB. 灾难恢复程序可以确保企业业务不致中断\nC. 备份程序可以保护公司的数据不致完全丢失\nD. 备份程序可以确保企业在自然灾害毁坏了计算机系统时进行持续经营\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "B",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n在组织信息系统职能时，最关键的职责分配是____。\nA. 确保负责为系统编程的人员无权进行数据处理操作\nB. 不允许数据库管理员协助数据处理操作\nC. 维护公用程序的编程人员与维护应用程序的编程人员由不同的人担任\nD. 为处理和验证交易的正确录入，专门设立一个部门负责交易的准备工作\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n作为审计风险三个组成部分之一，固有风险指的是____。\nA. 审计师在不知情的情况下，未能恰当地修正其对存在重大虚报的财务报表的审计意见的风险\nB. 假设在不存在相关内部控制结构政策或程序的情况下，财务报表存在重大虚报的可能性\nC. 实体的内部控制结构政策或程序未能及时阻止或检测出重大虚报的风险\nD. 审计师未能检测出实际存在的重大虚报的风险\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "B",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n会计控制关注于资产保护以及财务记录的可靠性。下列不能被会计控制提供合理的保证的是____。\nA. 根据管理层的一般授权或具体授权来执行交易\nB. 定期比较记录的资产与现存资产，并恰当处理二者间的差异\nC. 记录交易，以便财务报表的编制符合一般公认会计原则的要求，同时也用于维持资产会计责任\nD. 所釆用的方法和程序能确保营运效率并符合管理政策的要求\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n下列关于预防性控制的说法中，正确的是____。\nA. 与检测性控制相比，预防性控制往往更具成本效益\nB. 与检测性控制相比，预防性控制的使用成本往往更高\nC. 仅适用于一般会计控制\nD. 仅适用于会计交易控制\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "A",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n审计师在制定审计计划时会纳入审计风险的考量，审计风险指的是____。\nA. 假设审计对象不具备相关内部控制的情况下，账户余额存在重大错误的可能性\nB. 审计对象的内部控制制度未能及时阻止或检测出账户中的重大错误的风险\nC. 审计师在不知情的情况下，未能恰当地修正其对存在重大虚报的财务报表的审计意见的风险\nD. 审计师用于验证账户余额的审计程序未能检测出实际存在的重大错误的风险\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n如何最好地预防或检测出虚假的工资交易是为了控制风险，而该风险是指审计对象的内部控制制度未能及时预防或检测出账户中的重大错误。那么在这种情况下，最佳的控制程序是____。\nA. 使用并记录预先编号的工资支票\nB. 由人事部门批准员工的聘用、小时工资、工作身份以及雇佣关系的终止\nC. 内部验证经批准的小时工资和工资计算的正确性，以及是否与工资登记表保持一致\nD. 将无人认领的工资存入保险柜，限制他人动用这笔资金\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n如何确保灾难恢复计划的关键目标——尽快恢复营运能力？以下哪个选项最准确地描述了与计算机硬件供应商达成的安排，以确保组织随时获得满足其特定需求的全部营运设施？\nA. 不间断电力系统\nB. 平行系统\nC. 冷站\nD. 热站\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "D\n",
+          "predicted_answer": "D",
+          "gold_answer": "D",
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n20世纪70年代中期，水门事件把企业贪腐行为曝光在公众眼前，让美国人民大为骇异。随后美国国会决定通过一部法案——1977年12月19日颁布了《反海外腐败法》，下面哪项不是该法案对公司内部控制制度的要求____。\nA. 管理层必须每年评估公司内部控制制度的有效性\nB. 根据管理层的一般授权或具体授权来履行交易\nC. 记录交易，以便财务报表的编制符合一般公认会计原则（GAAP）或其他适用标准的要求，同时也用于维持资产会计责任\nD. 将记录的资产与现存资产相比较，两次比较之间的时间间隔要合理；并釆取适当的措施处理二者之间的差额\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "B\n",
+          "predicted_answer": "B",
+          "gold_answer": "D",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\n某零售公司秉承比成本高30$\\%$的产品定价原则。该公司预期7月份的销售额为7150，8月份的销售额为7280，9月份的销售额为6240。该公司的经营方针是，确保在月底有足够的库存，月底库存量应足以涵盖下月销售额的25$\\%$。那么，在制定8月份的采购预算时，公司库存成本的预算额应为多少____。\nA. 5096\nB. 5400\nC. 5600\nD. 6800\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 2,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 3,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 4,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 5,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 6,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 7,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 8,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 9,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        },
+        {
+          "trial": 10,
+          "raw_output": "A\n",
+          "predicted_answer": "A",
+          "gold_answer": "B",
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "query": "请根据以下问题从备选项中选择最合适的答案, 只需返回选项对应的字母。\n\nA公司生产塑料微波转盘。预计下一年度第1季度销售量为650单位，第2季度销售量为720单位，第3季度销售量为840单位，第4季度销售量为660单位。通常情况下，A公司每季度末的成品存货量等于下一季度预计销售量的一半。然而，由于停工影响，该公司第1季度末的成品存货量比原计划少80单位。现在需要计算A公司第2季度应该生产多少单位的产品。\nA. 750单位\nB. 780单位\nC. 800单位\nD. 860单位\n\n回答:",
+      "trials": [
+        {
+          "trial": 1,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 2,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 3,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 4,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 5,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 6,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 7,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 8,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 9,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        },
+        {
+          "trial": 10,
+          "raw_output": "C\n",
+          "predicted_answer": "C",
+          "gold_answer": "C",
+          "correct": 1
+        }
+      ]
+    }
+  ],
+  "overall_accuracy": 0.7416666666666667,
+  "trial_accuracies": [
+    {
+      "trial": 1,
+      "accuracy": 0.7395833333333334
+    },
+    {
+      "trial": 2,
+      "accuracy": 0.75
+    },
+    {
+      "trial": 3,
+      "accuracy": 0.71875
+    },
+    {
+      "trial": 4,
+      "accuracy": 0.7395833333333334
+    },
+    {
+      "trial": 5,
+      "accuracy": 0.7291666666666666
+    },
+    {
+      "trial": 6,
+      "accuracy": 0.7395833333333334
+    },
+    {
+      "trial": 7,
+      "accuracy": 0.7604166666666666
+    },
+    {
+      "trial": 8,
+      "accuracy": 0.7604166666666666
+    },
+    {
+      "trial": 9,
+      "accuracy": 0.7395833333333334
+    },
+    {
+      "trial": 10,
+      "accuracy": 0.7395833333333334
+    }
+  ]
+}
